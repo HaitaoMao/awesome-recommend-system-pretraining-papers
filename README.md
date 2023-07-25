@@ -17,6 +17,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Dataset
 - Yelp[[link]](https://www.yelp.com/dataset)
 - Petdata[[link]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
+- Amazon-M2[[link]](https://kddcup23.github.io/)[[paper]](https://arxiv.org/pdf/2307.09688.pdf)
 - M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [[paper]](https://arxiv.org/pdf/2109.04275.pdf)
 - Tenrec: A Large-scale Multipurpose Benchmark Dataset for Recommender Systems, NeurIPS 2022  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/4ad4fc1528374422dd7a69dea9e72948-Paper-Datasets_and_Benchmarks.pdf)
 ## Empirical Study
